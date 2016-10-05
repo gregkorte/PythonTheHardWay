@@ -4,7 +4,8 @@
 
 | Exercises | Description |
 | ---  | :---: |
-| [Exercise #0](ex0.py) | The opening salvo: Create a file. |
-| [Exercise #1](ex1.py) | Printing and commenting out lines of code. |
-| [Exercise #2](ex2.py) | More printing and commenting out. |
+| [Exercise #0](ex0.py) | The Setup |
+| [Exercise #1](ex1.py) | A Good First Program |
+| [Exercise #2](ex2.py) | Comments and Pound Characters |
 | [Exercise #3](ex3.py) | Numbers and Math |
+| [Exercise #4](ex4.py) | Variables and Names |
