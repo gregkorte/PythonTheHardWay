@@ -11,3 +11,4 @@
 | [Exercise #4](ex4.py) | Variables and Names |
 | [Exercise #5](ex5.py) | More Variables and Printing |
 | [Exercise #6](ex6.py) | Strings and Text |
+| [Exercise #7](ex7.py) | More Printing |
