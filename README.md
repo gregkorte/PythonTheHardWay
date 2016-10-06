@@ -13,3 +13,4 @@
 | [Exercise #6](ex6.py) | Strings and Text |
 | [Exercise #7](ex7.py) | More Printing |
 | [Exercise #8](ex8.py) | Printing, Printing |
+| [Exercise #9](ex9.py) | Printing, Printing, Printing |
