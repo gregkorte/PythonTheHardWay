@@ -17,3 +17,4 @@
 | [Exercise #10](ex10.py) | What Was That? |
 | [Exercise #11](ex11.py) | Asking Questions |
 | [Exercise #12](ex12.py) | Prompting People |
+| [Exercise #13](ex13.py) | Parameters, Unpacking, Variables |
