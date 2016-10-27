@@ -20,3 +20,4 @@
 | [Exercise #13](ex13.py) | Parameters, Unpacking, Variables |
 | [Exercise #14](ex14.py) | Prompting and Passing |
 | [Exercise #15](ex15.py) | Reading Files |
+| [Exercise #16](ex16.py) | Reading and Writing Files |
